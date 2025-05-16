@@ -11,6 +11,7 @@
 - Forecast next 5 days using LSTM (PyTorch)
 - Generate comprehensive PDF health report
 - Language toggle: English / 中文
+- Usable exe version for Non-coders
 
 
 
